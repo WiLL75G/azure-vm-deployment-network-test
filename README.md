@@ -224,7 +224,7 @@ It reflects practical hands-on experience in configuring virtual machines, enabl
 
 **Gokah William**
 
-Aspiring Cloud & IT Professional  
+Cloud & IT Professional  
 Focused on Cloud Infrastructure, Troubleshooting, and DevOps Foundations.
 
 ---
